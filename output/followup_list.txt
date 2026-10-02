@@ -1,0 +1,15 @@
+Cutoff: 130
+Reason: Systolic blood pressure at or above cutoff
+P011
+P014
+P028
+P005
+P020
+P009
+P002
+P023
+P025
+P015
+P018
+P022
+P006
